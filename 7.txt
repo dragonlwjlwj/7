@@ -1,0 +1,7 @@
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-hkhk.aikunapp.com:5001/?sni=d1--cn-gotcha204-4.bilivideo.com&insecure=1#hk1
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-jpjp.aikunapp.com:5001/?sni=d1--cn-gotcha204-4.bilivideo.com&insecure=1#aws-jpjp.aikunapp.com
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@us-oracle.aikunapp.com:5001/?sni=d1--cn-gotcha204-4.bilivideo.com&insecure=1#us-oracle
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@krseoul.aikunapp.com:5001/?sni=d1--cn-gotcha204-4.bilivideo.com&insecure=1#kr1
+hysteria2://96cad374-7573-4463-8804-4665c2c3d932@aws-sgsg.aikunapp.com:5001/?sni=d1--cn-gotcha204-4.bilivideo.com&insecure=1#sg1-
+hysteria2://0a82120d27e051eb@144.24.75.228:10001/?sni=bing.com&insecure=1#singbox
+hysteria2://dongtaiwang.com@207.90.239.157:3400/?sni=bing.com&insecure=1#chro
